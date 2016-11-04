@@ -60,6 +60,8 @@ a{
 	margin: 20px 2.5%;
 	overflow: auto;
 	background-color: white;
+	line-height: 2em;
+	text-align: justify;
 
 }
 
@@ -73,6 +75,10 @@ a{
 .hint{
 	color: black;
 
+}
+
+.solution{
+	
 }
 
 /*-----LAB START-----------*/
