@@ -1,0 +1,104 @@
+*{
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+
+}
+
+body{
+	font-family: "Times new roman";
+	font-size: 45px;
+	background: url("../pics/python.jpg") no-repeat;
+	background-size: cover;
+}
+
+header{
+	width: 100%;
+	text-align: center;
+	height: 60px;
+	color: white;
+	background-color: green;
+	opacity: 1;
+}
+
+
+a{
+	text-decoration: none;
+	color:white;
+
+}
+
+/*-----HOME SATART-----------*/
+.sec{
+	width: 30%;
+	height: 50vh;
+	background-color: black;
+	margin:10% 1.66%;
+	float: left; 
+	color: white;
+	text-align: center;
+	line-height: 50vh;
+	opacity: 0.5;
+}
+
+.sec:hover{
+	opacity: 0.9;
+}
+
+/*-----HOME END-----------*/
+.container{
+	width: 100%;
+	height: 100vh;
+	background-color: white;
+	color: black;
+	font-size: 16px;
+
+}
+
+.note{
+	font-weight: bold;
+	background-color: purple;
+	color: white;
+	width: 100%;
+	margin-top : 50px;
+	font-size: 24px;
+	overflow: all;
+	padding: 10px;
+	text-align: center;
+}
+
+.problem{
+	width: 95%;
+	margin: 20px 2.5%;
+	overflow: auto;
+	background-color: white;
+	line-height: 2em;
+	text-align: justify;
+
+}
+
+.question{
+	color:black;
+	font-weight: bold;
+	color: red;
+
+}
+
+.hint{
+	color: black;
+
+}
+
+.solution{
+	width: 500px;
+	height: 500px;
+}
+
+/*-----LAB START-----------*/
+
+/*-----LAB END-----------*/
+
+
+/*-----MEDIA QUERY START-----------*/
+
+/*-----MEDIA QUERY END-----------*/
