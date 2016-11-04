@@ -1,0 +1,44 @@
+*{
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+
+}
+
+body{
+	font-family: "Times new roman";
+	font-size: 45px;
+	background: url("../pics/python.jpg") no-repeat;
+	background-size: cover;
+}
+
+header{
+	width: 100%;
+	text-align: center;
+	height: 60px;
+	color: white;
+	background-color: green;
+	opacity: 1;
+}
+
+
+a{
+	text-decoration: none;
+	color:white;
+
+}
+.sec{
+	width: 30%;
+	height: 50vh;
+	background-color: black;
+	margin:10% 1.66%;
+	float: left; 
+	color: white;
+	text-align: center;
+	line-height: 50vh;
+	opacity: 0.5;
+}
+
+.sec:hover{
+	opacity: 0.9;
+}
